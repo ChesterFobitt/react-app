@@ -6,7 +6,7 @@ export default () => (
     <img src={logo} alt="logo" />
     <h1>
       <a href="https://medium.com/@evheniybystrov/react-app-from-scratch-d694300d1631">
-        Read more...
+        Hello world test...
       </a>
     </h1>
   </Fragment>
